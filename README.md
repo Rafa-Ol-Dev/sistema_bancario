@@ -4,7 +4,7 @@
 Este projeto é parte do bootcamp da DIO **Potência Tech powered by iFood | Ciência de Dados** que me possibilitou aplicar os conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias.
 
 O objetivo é simples, implementar três operações essenciais: depósito, saque e extrato.
-O sistema será desenvolvido para um banco que busca monetizar suas operações.
+O sistema foi desenvolvido para um banco que busca monetizar suas operações.
 
 _Essa é a versão 1 do desafio._
 
